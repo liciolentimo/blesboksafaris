@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/amboseli.jpeg",
+        "alt": "Amboseli",
+        "name": "Amboseli",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/mara.jpg",
+        "alt": "Maasai Mara",
+        "name": "Maasai Mara",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/zebra.jpg",
+        "alt": "Samburu",
+        "name": "Samburu National Reserve",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/nanyuki.jpg",
+        "alt": "Nanyuki",
+        "name": "Nanyuki",
+        "button": "View Destination"
+    }
+]
