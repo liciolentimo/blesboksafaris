@@ -1,18 +1,18 @@
 [
     {
-        "img": "../assets/images/amboseli.jpeg",
+        "img": "../assets/images/UNDP_KE_Elephant.jpg",
         "alt": "Amboseli",
         "name": "Amboseli",
         "button": "View Destination"
     },
     {
-        "img": "../assets/images/mara.jpg",
+        "img": "../assets/images/wildbeest.jpg",
         "alt": "Maasai Mara",
         "name": "Maasai Mara",
         "button": "View Destination"
     },
     {
-        "img": "../assets/images/zebra.jpg",
+        "img": "../assets/images/lions.jpeg",
         "alt": "Samburu",
         "name": "Samburu National Reserve",
         "button": "View Destination"
