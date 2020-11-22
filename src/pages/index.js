@@ -1,4 +1,5 @@
 import React from "react"
+import Destinations from "../components/destinations"
 import Hero from "../components/hero"
 
 
@@ -9,6 +10,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <Hero />
+    <Destinations />
     
   </Layout>
 )
