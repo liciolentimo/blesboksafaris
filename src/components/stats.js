@@ -1,27 +1,27 @@
 import React from 'react'
 import styled from 'styled-components'
 import {GiEarthAmerica} from 'react-icons/gi'
-import {MdAirplanemodeActive, MdTimer} from 'react-icons/md'
+import { MdTimer} from 'react-icons/md'
 import {FaMoneyCheck,FaShuttleVan} from 'react-icons/fa'
 
 const StatsData = [
     {
-        icon: (<GiEarthAmerica />),
+        icon: (<GiEarthAmerica css={`color: #047bf1`}/>),
         title: "Over 50 destinations",
         desc: "Travel to over 50 unique destinations in Kenya"
     },
     {
-        icon: (<FaShuttleVan />),
+        icon: (<FaShuttleVan css={`color: #f3a82e`} />),
         title: "Hundreds of trips made",
         desc: "Hundreds of trips made each year all over Kenya"
     },
     {
-        icon: (<MdTimer />),
-        title: "fastest Support",
+        icon: (<MdTimer css={`color: #f34f2e`} />),
+        title: "Fastest Support",
         desc: "Access our support team 24/7"
     },
     {
-        icon: (<FaMoneyCheck />),
+        icon: (<FaMoneyCheck css={`color: #3af576`} />),
         title: "Best Deals",
         desc: "We offer the best prices"
     }
@@ -88,7 +88,7 @@ font-size: 3rem;
 margin-bottom: 1rem;
 `
 
-const Title = styled.div `
+const Title = styled.p `
 font-size: clamp(1rem, 2.5vw, 1.5rem);
 margin-bottom: 0.5rem;
 `
