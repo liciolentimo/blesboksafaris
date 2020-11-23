@@ -1,5 +1,6 @@
 import React from "react"
 import Destinations from "../components/destinations"
+import Email from "../components/email"
 import Hero from "../components/hero"
 
 
@@ -15,6 +16,7 @@ const IndexPage = () => (
     <Destinations heading="Our Favourite Destinations" />
     <Testimonials />
     <Stats />
+    <Email />
   </Layout>
 )
 
